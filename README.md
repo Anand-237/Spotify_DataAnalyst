@@ -90,4 +90,16 @@ Open `Spotify.pbix` in Power BI Desktop to view the interactive dashboard dashbo
 
 ## 📊 Visualizations & Insights
 
-Check out the `screenshot/` folder to preview the dashboard visuals and plots generated during EDA!
+Here are some screenshots showcasing the Power BI Dashboard and exploratory data analysis:
+
+### Power BI Dashboard Overview
+![Dashboard Overview](screenshot/Screenshot%202026-07-08%20162608.png)
+
+### Key Metrics & Charts
+![Dashboard Charts 1](screenshot/Screenshot%202026-07-08%20162625.png)
+![Dashboard Charts 2](screenshot/Screenshot%202026-07-08%20162646.png)
+![Dashboard Charts 3](screenshot/Screenshot%202026-07-08%20162702.png)
+![Dashboard Charts 4](screenshot/Screenshot%202026-07-08%20162727.png)
+![Dashboard Charts 5](screenshot/Screenshot%202026-07-08%20162744.png)
+![Dashboard Charts 6](screenshot/Screenshot%202026-07-08%20162758.png)
+
