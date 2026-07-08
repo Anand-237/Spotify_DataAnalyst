@@ -1,0 +1,127 @@
+{
+  "name": "Spotify Dark Theme",
+  "dataColors": [
+    "#1DB954",
+    "#1ED760",
+    "#1AA34A",
+    "#535353",
+    "#B3B3B3",
+    "#FFFFFF",
+    "#FFB000",
+    "#3D91FF",
+    "#FF6B6B",
+    "#9C27B0"
+  ],
+  "background": "#121212",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#1DB954",
+  "good": "#1DB954",
+  "neutral": "#B3B3B3",
+  "bad": "#FF4C4C",
+  "minimum": "#121212",
+  "center": "#1DB954",
+  "maximum": "#1ED760",
+
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI",
+            "fontSize": 18,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#181818"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#1DB954"
+              }
+            },
+            "radius": 12
+          }
+        ],
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "fontSize": 11
+          }
+        ]
+      }
+    },
+
+    "card": {
+      "*": {
+        "calloutValue": [
+          {
+            "color": {
+              "solid": {
+                "color": "#1ED760"
+              }
+            },
+            "fontSize": 28
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#B3B3B3"
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    "tableEx": {
+      "*": {
+        "grid": [
+          {
+            "outlineColor": {
+              "solid": {
+                "color": "#333333"
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    "slicer": {
+      "*": {
+        "items": [
+          {
+            "fontColor": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

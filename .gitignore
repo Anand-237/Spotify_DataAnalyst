@@ -1,0 +1,4 @@
+.cache
+trace.txt
+__pycache__/
+*.pyc
